@@ -55,8 +55,4 @@ Sarangpur,
 Silvassa, 
 Surat, 
 Surendranagar, 
-Tithal, 
-
-
-
-
+Tithal

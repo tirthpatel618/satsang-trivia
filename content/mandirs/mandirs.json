@@ -1,13 +1,55 @@
 [
-    {
-        "place": "Navsari, Gujarat",
-        "time": "",
-        "url": "content/mandirs/navsari.jpg"
-    },
-    {
-        "place": "Navsari, Gujarat",
-        "time": "",
-        "url": "content/mandirs/navsari.jpg"
-    }
-
+    { "place": "Toronto, Canada", "url": "content/mandirs/toronto.jpg" },
+    { "place": "Chicago, USA", "url": "content/mandirs/chicago.jpg" },
+    { "place": "Robbinsville, USA", "url": "content/mandirs/robbinsville.jpg" },
+    { "place": "Houston, USA", "url": "content/mandirs/houston.jpg" },
+    { "place": "Edison, USA", "url": "content/mandirs/edison.jpg" },
+    { "place": "Atlanta, USA", "url": "content/mandirs/atlanta.jpg" },
+    { "place": "Los Angeles, USA", "url": "content/mandirs/losangeles.jpg" },
+    
+    { "place": "Neasden, UK", "url": "content/mandirs/neasden.jpg" },
+    
+    { "place": "Nairobi, Kenya", "url": "content/mandirs/nairobi.jpg" },
+    
+    { "place": "Sydney, Australia", "url": "content/mandirs/sydney.jpg" },
+    
+    { "place": "Ahmedabad, Gujarat", "url": "content/mandirs/ahmedabad.jpg" },
+    { "place": "Anand, Gujarat", "url": "content/mandirs/anand.jpg" },
+    { "place": "Atladara, Gujarat", "url": "content/mandirs/atladara.jpg" },
+    { "place": "Bhadra, Gujarat", "url": "content/mandirs/bhadra.jpg" },
+    { "place": "Bharuch, Gujarat", "url": "content/mandirs/bharuch.jpg" },
+    { "place": "Bhavnagar, Gujarat", "url": "content/mandirs/bhavnagar.jpg" },
+    { "place": "Bochasan, Gujarat", "url": "content/mandirs/bochasan.jpg" },
+    { "place": "Bodeli, Gujarat", "url": "content/mandirs/bodeli.jpg" },
+    { "place": "Delhi, Uttar Pradesh", "url": "content/mandirs/delhi.jpg" },
+    { "place": "Dhari, Gujarat", "url": "content/mandirs/dhari.jpg" },
+    { "place": "Dholka, Gujarat", "url": "content/mandirs/dholka.jpg" },
+    { "place": "Dhule, Maharashtra", "url": "content/mandirs/dhule.jpg" },
+    { "place": "Gadhada, Gujarat", "url": "content/mandirs/gadhada.jpg" },
+    { "place": "Gandhinagar, Gujarat", "url": "content/mandirs/gandhinagar.jpg" },
+    { "place": "Godhra, Gujarat", "url": "content/mandirs/godhra.jpg" },
+    { "place": "Gondal, Gujarat", "url": "content/mandirs/gondal.jpg" },
+    { "place": "Himmatnagar, Gujarat", "url": "content/mandirs/himmatnagar.jpg" },
+    { "place": "Jaipur, Rajasthan", "url": "content/mandirs/jaipur.jpg" },
+    { "place": "Jalandhar, Punjab", "url": "content/mandirs/jalandhar.jpg" },
+    { "place": "Jamnagar, Gujarat", "url": "content/mandirs/jamnagar.jpg" },
+    { "place": "Junagadh, Gujarat", "url": "content/mandirs/junagadh.jpg" },
+    { "place": "Kolkata, West Bengal", "url": "content/mandirs/kolkata.jpg" },
+    { "place": "Limbdi, Gujarat", "url": "content/mandirs/limbdi.jpg" },
+    { "place": "Mahelav, Gujarat", "url": "content/mandirs/mahelav.jpg" },
+    { "place": "Mahesana, Gujarat", "url": "content/mandirs/mahesana.jpg" },
+    { "place": "Mahuva, Gujarat", "url": "content/mandirs/mahuva.jpg" },
+    { "place": "Mumbai, Maharashtra", "url": "content/mandirs/mumbai.jpg" },
+    { "place": "Nadiad, Gujarat", "url": "content/mandirs/nadiad.jpg" },
+    { "place": "Nagpur, Maharashtra", "url": "content/mandirs/nagpur.jpg" },
+    { "place": "Nashik, Maharashtra", "url": "content/mandirs/nashik.jpg" },
+    { "place": "Navsari, Gujarat", "url": "content/mandirs/navsari.jpg" },
+    { "place": "Pune, Maharashtra", "url": "content/mandirs/pune.jpg" },
+    { "place": "Rajkot, Gujarat", "url": "content/mandirs/rajkot.jpg" },
+    { "place": "Sankari, Gujarat", "url": "content/mandirs/sankari.jpg" },
+    { "place": "Sarangpur, Gujarat", "url": "content/mandirs/sarangpur.jpg" },
+    { "place": "Silvassa, Gujarat", "url": "content/mandirs/silvassa.jpg" },
+    { "place": "Surat, Gujarat", "url": "content/mandirs/surat.jpg" },
+    { "place": "Surendranagar, Gujarat", "url": "content/mandirs/surendranagar.jpg" },
+    { "place": "Tithal, Gujarat", "url": "content/mandirs/tithal.jpg" }
 ]
