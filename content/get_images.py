@@ -28,5 +28,3 @@ for img in img_tags:
             print(f'Downloaded: {img_name}')
         else:
             print(f'Failed to download: {img_name}')
-
-#helo
