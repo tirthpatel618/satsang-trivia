@@ -1,7 +1,737 @@
 [
     {
-        "place": "Toronto, Canada",
-        "khand": "AP",
+        "place": "Toronto",
+        "khand": "Akshar Purushottam",
         "url": "content/murtis/toronto_ap.jpg"
+    },
+    {
+        "place": "Toronto",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/toronto_rk.jpg"
+    },
+    {
+        "place": "Toronto",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/toronto_g.jpg"
+    },
+    {
+        "place": "Chicago",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/chicago_ap.jpg"
+    },
+    {
+        "place": "Chicago",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/chicago_rk.jpg"
+    },
+    {
+        "place": "Chicago",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/chicago_g.jpg"
+    },
+    {
+        "place": "Robbinsville",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/robbinsville_ap.jpg"
+    },
+    {
+        "place": "Robbinsville",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/robbinsville_rk.jpg"
+    },
+    {
+        "place": "Robbinsville",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/robbinsville_g.jpg"
+    },
+    {
+        "place": "Houston",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/houston_ap.jpg"
+    },
+    {
+        "place": "Houston",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/houston_rk.jpg"
+    },
+    {
+        "place": "Houston",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/houston_g.jpg"
+    },
+    {
+        "place": "Edison",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/edison_ap.jpg"
+    },
+    {
+        "place": "Edison",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/edison_rk.jpg"
+    },
+    {
+        "place": "Edison",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/edison_g.jpg"
+    },
+    {
+        "place": "Atlanta",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/atlanta_ap.jpg"
+    },
+    {
+        "place": "Atlanta",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/atlanta_rk.jpg"
+    },
+    {
+        "place": "Atlanta",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/atlanta_g.jpg"
+    },
+    {
+        "place": "Los Angeles",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/los_angeles_ap.jpg"
+    },
+    {
+        "place": "Los Angeles",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/los_angeles_rk.jpg"
+    },
+    {
+        "place": "Los Angeles",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/los_angeles_g.jpg"
+    },
+    {
+        "place": "Neasden",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/neasden_ap.jpg"
+    },
+    {
+        "place": "Neasden",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/neasden_rk.jpg"
+    },
+    {
+        "place": "Neasden",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/neasden_g.jpg"
+    },
+    {
+        "place": "Nairobi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nairobi_ap.jpg"
+    },
+    {
+        "place": "Nairobi",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/nairobi_rk.jpg"
+    },
+    {
+        "place": "Nairobi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nairobi_g.jpg"
+    },
+    {
+        "place": "Sydney",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/sydney_ap.jpg"
+    },
+    {
+        "place": "Sydney",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/sydney_rk.jpg"
+    },
+    {
+        "place": "Sydney",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/sydney_g.jpg"
+    },
+    {
+        "place": "Ahmedabad",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/ahmedabad_ap.jpg"
+    },
+    {
+        "place": "Ahmedabad",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/ahmedabad_rk.jpg"
+    },
+    {
+        "place": "Ahmedabad",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/ahmedabad_g.jpg"
+    },
+    {
+        "place": "Anand",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/anand_ap.jpg"
+    },
+    {
+        "place": "Anand",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/anand_rk.jpg"
+    },
+    {
+        "place": "Anand",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/anand_g.jpg"
+    },
+    {
+        "place": "Atladara",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/atladara_ap.jpg"
+    },
+    {
+        "place": "Atladara",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/atladara_rk.jpg"
+    },
+    {
+        "place": "Atladara",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/atladara_g.jpg"
+    },
+    {
+        "place": "Bhadra",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bhadra_ap.jpg"
+    },
+    {
+        "place": "Bhadra",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/bhadra_rk.jpg"
+    },
+    {
+        "place": "Bhadra",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bhadra_g.jpg"
+    },
+    {
+        "place": "Bharuch",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bharuch_ap.jpg"
+    },
+    {
+        "place": "Bharuch",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/bharuch_rk.jpg"
+    },
+    {
+        "place": "Bharuch",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bharuch_g.jpg"
+    },
+    {
+        "place": "Bhavnagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bhavnagar_ap.jpg"
+    },
+    {
+        "place": "Bhavnagar",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/bhavnagar_rk.jpg"
+    },
+    {
+        "place": "Bhavnagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bhavnagar_g.jpg"
+    },
+    {
+        "place": "Bochasan",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bochasan_ap.jpg"
+    },
+    {
+        "place": "Bochasan",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/bochasan_rk.jpg"
+    },
+    {
+        "place": "Bochasan",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bochasan_g.jpg"
+    },
+    {
+        "place": "Bodeli",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bodeli_ap.jpg"
+    },
+    {
+        "place": "Bodeli",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/bodeli_rk.jpg"
+    },
+    {
+        "place": "Bodeli",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bodeli_g.jpg"
+    },
+    {
+        "place": "Delhi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/delhi_ap.jpg"
+    },
+    {
+        "place": "Delhi",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/delhi_rk.jpg"
+    },
+    {
+        "place": "Delhi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/delhi_g.jpg"
+    },
+    {
+        "place": "Dhari",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/dhari_ap.jpg"
+    },
+    {
+        "place": "Dhari",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/dhari_rk.jpg"
+    },
+    {
+        "place": "Dhari",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/dhari_g.jpg"
+    },
+    {
+        "place": "Dholka",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/dholka_ap.jpg"
+    },
+    {
+        "place": "Dholka",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/dholka_rk.jpg"
+    },
+    {
+        "place": "Dholka",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/dholka_g.jpg"
+    },
+    {
+        "place": "Dhule",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/dhule_ap.jpg"
+    },
+    {
+        "place": "Dhule",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/dhule_rk.jpg"
+    },
+    {
+        "place": "Dhule",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/dhule_g.jpg"
+    },
+    {
+        "place": "Gadhada",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/gadhada_ap.jpg"
+    },
+    {
+        "place": "Gadhada",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/gadhada_rk.jpg"
+    },
+    {
+        "place": "Gadhada",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/gadhada_g.jpg"
+    },
+    {
+        "place": "Gandhinagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/gandhinagar_ap.jpg"
+    },
+    {
+        "place": "Gandhinagar",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/gandhinagar_rk.jpg"
+    },
+    {
+        "place": "Gandhinagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/gandhinagar_g.jpg"
+    },
+    {
+        "place": "Godhra",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/godhra_ap.jpg"
+    },
+    {
+        "place": "Godhra",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/godhra_rk.jpg"
+    },
+    {
+        "place": "Godhra",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/godhra_g.jpg"
+    },
+    {
+        "place": "Gondal",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/gondal_ap.jpg"
+    },
+    {
+        "place": "Gondal",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/gondal_rk.jpg"
+    },
+    {
+        "place": "Gondal",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/gondal_g.jpg"
+    },
+    {
+        "place": "Himmatnagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/himmatnagar_ap.jpg"
+    },
+    {
+        "place": "Himmatnagar",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/himmatnagar_rk.jpg"
+    },
+    {
+        "place": "Himmatnagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/himmatnagar_g.jpg"
+    },
+    {
+        "place": "Jaipur",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/jaipur_ap.jpg"
+    },
+    {
+        "place": "Jaipur",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/jaipur_rk.jpg"
+    },
+    {
+        "place": "Jaipur",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/jaipur_g.jpg"
+    },
+    {
+        "place": "Jalandhar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/jalandhar_ap.jpg"
+    },
+    {
+        "place": "Jalandhar",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/jalandhar_rk.jpg"
+    },
+    {
+        "place": "Jalandhar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/jalandhar_g.jpg"
+    },
+    {
+        "place": "Jamnagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/jamnagar_ap.jpg"
+    },
+    {
+        "place": "Jamnagar",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/jamnagar_rk.jpg"
+    },
+    {
+        "place": "Jamnagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/jamnagar_g.jpg"
+    },
+    {
+        "place": "Junagadh",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/junagadh_ap.jpg"
+    },
+    {
+        "place": "Junagadh",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/junagadh_rk.jpg"
+    },
+    {
+        "place": "Junagadh",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/junagadh_g.jpg"
+    },
+    {
+        "place": "Kolkata",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/kolkata_ap.jpg"
+    },
+    {
+        "place": "Kolkata",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/kolkata_rk.jpg"
+    },
+    {
+        "place": "Kolkata",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/kolkata_g.jpg"
+    },
+    {
+        "place": "Limbdi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/limbdi_ap.jpg"
+    },
+    {
+        "place": "Limbdi",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/limbdi_rk.jpg"
+    },
+    {
+        "place": "Limbdi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/limbdi_g.jpg"
+    },
+    {
+        "place": "Mahelav",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mahelav_ap.jpg"
+    },
+    {
+        "place": "Mahelav",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/mahelav_rk.jpg"
+    },
+    {
+        "place": "Mahelav",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mahelav_g.jpg"
+    },
+    {
+        "place": "Mahesana",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mahesana_ap.jpg"
+    },
+    {
+        "place": "Mahesana",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/mahesana_rk.jpg"
+    },
+    {
+        "place": "Mahesana",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mahesana_g.jpg"
+    },
+    {
+        "place": "Mahuva",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mahuva_ap.jpg"
+    },
+    {
+        "place": "Mahuva",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/mahuva_rk.jpg"
+    },
+    {
+        "place": "Mahuva",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mahuva_g.jpg"
+    },
+    {
+        "place": "Mumbai",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mumbai_ap.jpg"
+    },
+    {
+        "place": "Mumbai",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/mumbai_rk.jpg"
+    },
+    {
+        "place": "Mumbai",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mumbai_g.jpg"
+    },
+    {
+        "place": "Nadiad",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nadiad_ap.jpg"
+    },
+    {
+        "place": "Nadiad",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/nadiad_rk.jpg"
+    },
+    {
+        "place": "Nadiad",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nadiad_g.jpg"
+    },
+    {
+        "place": "Nagpur",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nagpur_ap.jpg"
+    },
+    {
+        "place": "Nagpur",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/nagpur_rk.jpg"
+    },
+    {
+        "place": "Nagpur",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nagpur_g.jpg"
+    },
+    {
+        "place": "Nashik",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nashik_ap.jpg"
+    },
+    {
+        "place": "Nashik",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/nashik_rk.jpg"
+    },
+    {
+        "place": "Nashik",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nashik_g.jpg"
+    },
+    {
+        "place": "Navsari",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/navsari_ap.jpg"
+    },
+    {
+        "place": "Navsari",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/navsari_rk.jpg"
+    },
+    {
+        "place": "Navsari",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/navsari_g.jpg"
+    },
+    {
+        "place": "Pune",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/pune_ap.jpg"
+    },
+    {
+        "place": "Pune",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/pune_rk.jpg"
+    },
+    {
+        "place": "Pune",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/pune_g.jpg"
+    },
+    {
+        "place": "Rajkot",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/rajkot_ap.jpg"
+    },
+    {
+        "place": "Rajkot",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/rajkot_rk.jpg"
+    },
+    {
+        "place": "Rajkot",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/rajkot_g.jpg"
+    },
+    {
+        "place": "Sankari",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/sankari_ap.jpg"
+    },
+    {
+        "place": "Sankari",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/sankari_rk.jpg"
+    },
+    {
+        "place": "Sankari",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/sankari_g.jpg"
+    },
+    {
+        "place": "Sarangpur",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/sarangpur_ap.jpg"
+    },
+    {
+        "place": "Sarangpur",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/sarangpur_rk.jpg"
+    },
+    {
+        "place": "Sarangpur",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/sarangpur_g.jpg"
+    },
+    {
+        "place": "Silvassa",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/silvassa_ap.jpg"
+    },
+    {
+        "place": "Silvassa",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/silvassa_rk.jpg"
+    },
+    {
+        "place": "Silvassa",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/silvassa_g.jpg"
+    },
+    {
+        "place": "Surat",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/surat_ap.jpg"
+    },
+    {
+        "place": "Surat",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/surat_rk.jpg"
+    },
+    {
+        "place": "Surat",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/surat_g.jpg"
+    },
+    {
+        "place": "Surendranagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/surendranagar_ap.jpg"
+    },
+    {
+        "place": "Surendranagar",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/surendranagar_rk.jpg"
+    },
+    {
+        "place": "Surendranagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/surendranagar_g.jpg"
+    },
+    {
+        "place": "Tithal",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/tithal_ap.jpg"
+    },
+    {
+        "place": "Tithal",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/tithal_rk.jpg"
+    },
+    {
+        "place": "Tithal",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/tithal_g.jpg"
     }
 ]
