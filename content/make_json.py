@@ -9,13 +9,12 @@ mandirs = [
     "Jaipur, Rajasthan", "Jalandhar, Punjab", "Jamnagar, Gujarat", "Junagadh, Gujarat", "Kolkata, West Bengal", "Limbdi, Gujarat",
     "Mahelav, Gujarat", "Mahesana, Gujarat", "Mahuva, Gujarat", "Mumbai, Maharashtra", "Nadiad, Gujarat", "Nagpur, Maharashtra",
     "Nashik, Maharashtra", "Navsari, Gujarat", "Pune, Maharashtra", "Rajkot, Gujarat", "Sankari, Gujarat", "Sarangpur, Gujarat",
-    "Silvassa, Gujarat", "Surat, Gujarat", "Surendranagar, Gujarat", "Tithal, Gujarat"
+    "Silvassa, Gujarat", "Surat, Gujarat", "Surendranagar, Gujarat", "Tithal, Gujarat", "Abu Dhabi, UAE"
 ]
 
 # Murti khands
 khand_info = {
     "Akshar Purushottam": "ap",
-    "Radha Krishna": "rk",
     "Ghanshyam Maharaj": "g"
 }
 

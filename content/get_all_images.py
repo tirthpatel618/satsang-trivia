@@ -7,14 +7,11 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
 }
 
-# Create output directory
-os.makedirs('murti_darshan_images', exist_ok=True)
+os.makedirs('murti', exist_ok=True)
 
-# Load mandir names from file
 with open('mandirs.txt', 'r') as f:
     mandirs = [line.strip() for line in f if line.strip() and not line.endswith(':')]
 
-# Helper function to sanitize city name for filenames
 def sanitize_city(city):
     return city.lower().replace(' ', '_')
 
