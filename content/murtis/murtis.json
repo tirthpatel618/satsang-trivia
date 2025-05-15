@@ -733,5 +733,20 @@
         "place": "Tithal",
         "khand": "Ghanshyam Maharaj",
         "url": "content/murtis/tithal_g.jpg"
+    }, 
+    {
+        "place": "Abu Dhabi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/abudhabi_ap.jpg"
+    },
+    {
+        "place": "Abu Dhabi",
+        "khand": "Radha Krishna",
+        "url": "content/murtis/abudhabi_rk.jpg"
+    },
+    {
+        "place": "Abu Dhabi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/abudhabi_g.jpg"
     }
 ]

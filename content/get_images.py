@@ -23,7 +23,7 @@ for img in img_tags:
         img_name = os.path.basename(img_url)
         img_response = requests.get(img_url, headers=headers)
         if img_response.status_code == 200:
-            with open(os.path.join('murti_darshan_images', img_name), 'wb') as f:
+            with open(os.path.join('murti_darshan_images', ), 'wb') as f:
                 f.write(img_response.content)
             print(f'Downloaded: {img_name}')
         else:

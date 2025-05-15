@@ -7,7 +7,8 @@
     { "place": "Atlanta, USA", "url": "content/mandirs/atlanta.jpg" },
     { "place": "Los Angeles, USA", "url": "content/mandirs/losangeles.jpg" },
     
-    { "place": "Neasden, UK", "url": "content/mandirs/neasden.jpg" },
+    { "place": "London, UK", "url": "content/mandirs/london.jpg" },
+    { "place": "Abu Dhabi, UAE", "url": "content/mandirs/abudhabi.jpg"},
     
     { "place": "Nairobi, Kenya", "url": "content/mandirs/nairobi.jpg" },
     
