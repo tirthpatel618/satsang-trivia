@@ -1,6 +1,5 @@
 import json
 
-# List of mandirs
 mandirs = [
     "Toronto, Canada", "Chicago, USA", "Robbinsville, USA", "Houston, USA", "Edison, USA", "Atlanta, USA", "Los Angeles, USA",
     "Neasden, UK", "Nairobi, Kenya", "Sydney, Australia", "Ahmedabad, Gujarat", "Anand, Gujarat", "Atladara, Gujarat", "Bhadra, Gujarat",
@@ -12,25 +11,20 @@ mandirs = [
     "Silvassa, Gujarat", "Surat, Gujarat", "Surendranagar, Gujarat", "Tithal, Gujarat", "Abu Dhabi, UAE"
 ]
 
-# Murti khands
-khand_info = {
-    "Akshar Purushottam": "ap",
-    "Ghanshyam Maharaj": "g"
-}
 
-# Generate JSON entries
-murti_entries = []
 
+mandir_entries = []
+
+count = 1
 for mandir in mandirs:
     city = mandir.split(",")[0].strip()
     base = city.lower().replace(" ", "_")
-    for khand, suffix in khand_info.items():
-        murti_entries.append({
-            "place": city,
-            "khand": khand,
-            "url": f"content/murtis/{base}_{suffix}.jpg"
-        })
+    mandir_entries.append({
+        "id": count,
+        "place": city,
+        "url": f"content/mandirs/{base}.jpg"
+    })
+    count += 1
 
-# Save to JSON file
-with open("murtis.json", "w") as json_file:
-    json.dump(murti_entries, json_file, indent=4)
+with open("mandirs.json", "w") as json_file:
+    json.dump(mandir_entries, json_file, indent=4)
