@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mandir Trivia</title>
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 30px; }
+    img { width: 500px; height: auto; border-radius: 10px; margin-bottom: 20px; }
+    .choice { display: block; margin: 10px auto; padding: 10px 20px; font-size: 18px; cursor: pointer; }
+    #feedback { font-size: 20px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Guess the Mandir</h1>
+  <img id="mandir-image" src="" alt="Mandir image">
+  <div id="choices"></div>
+  <div id="feedback"></div>
+  <button onclick="loadQuestion()">Next Question</button>
+
+  <script>
+    let correctAnswer = "";
+
+    function loadQuestion() {
+      document.getElementById("feedback").innerText = "";
+      fetch("/question")
+        .then(res => res.json())
+        .then(data => {
+          document.getElementById("mandir-image").src = data.image_url;
+          correctAnswer = data.answer;
+
+          const choicesDiv = document.getElementById("choices");
+          choicesDiv.innerHTML = "";
+          data.choices.forEach(choice => {
+            const btn = document.createElement("button");
+            btn.className = "choice";
+            btn.innerText = choice;
+            btn.onclick = () => {
+              if (choice === correctAnswer) {
+                document.getElementById("feedback").innerText = "✅ Correct!";
+              } else {
+                document.getElementById("feedback").innerText = `❌ Wrong! It was ${correctAnswer}`;
+              }
+            };
+            choicesDiv.appendChild(btn);
+          });
+        });
+    }
+
+    loadQuestion(); // load first question
+  </script>
+</body>
+</html>

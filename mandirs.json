@@ -2,251 +2,251 @@
     {
         "id": 1,
         "place": "Toronto",
-        "url": "content/mandirs/toronto.jpg"
+        "url": "static/mandirs/toronto.jpg"
     },
     {
         "id": 2,
         "place": "Chicago",
-        "url": "content/mandirs/chicago.jpg"
+        "url": "static/mandirs/chicago.jpg"
     },
     {
         "id": 3,
         "place": "Robbinsville",
-        "url": "content/mandirs/robbinsville.jpg"
+        "url": "static/mandirs/robbinsville.jpg"
     },
     {
         "id": 4,
         "place": "Houston",
-        "url": "content/mandirs/houston.jpg"
+        "url": "static/mandirs/houston.jpg"
     },
     {
         "id": 5,
         "place": "Edison",
-        "url": "content/mandirs/edison.jpg"
+        "url": "static/mandirs/edison.jpg"
     },
     {
         "id": 6,
         "place": "Atlanta",
-        "url": "content/mandirs/atlanta.jpg"
+        "url": "static/mandirs/atlanta.jpg"
     },
     {
         "id": 7,
         "place": "Los Angeles",
-        "url": "content/mandirs/los_angeles.jpg"
+        "url": "static/mandirs/los_angeles.jpg"
     },
     {
         "id": 8,
         "place": "Neasden",
-        "url": "content/mandirs/neasden.jpg"
+        "url": "static/mandirs/neasden.jpg"
     },
     {
         "id": 9,
         "place": "Nairobi",
-        "url": "content/mandirs/nairobi.jpg"
+        "url": "static/mandirs/nairobi.jpg"
     },
     {
         "id": 10,
         "place": "Sydney",
-        "url": "content/mandirs/sydney.jpg"
+        "url": "static/mandirs/sydney.jpg"
     },
     {
         "id": 11,
         "place": "Ahmedabad",
-        "url": "content/mandirs/ahmedabad.jpg"
+        "url": "static/mandirs/ahmedabad.jpg"
     },
     {
         "id": 12,
         "place": "Anand",
-        "url": "content/mandirs/anand.jpg"
+        "url": "static/mandirs/anand.jpg"
     },
     {
         "id": 13,
         "place": "Atladara",
-        "url": "content/mandirs/atladara.jpg"
+        "url": "static/mandirs/atladara.jpg"
     },
     {
         "id": 14,
         "place": "Bhadra",
-        "url": "content/mandirs/bhadra.jpg"
+        "url": "static/mandirs/bhadra.jpg"
     },
     {
         "id": 15,
         "place": "Bharuch",
-        "url": "content/mandirs/bharuch.jpg"
+        "url": "static/mandirs/bharuch.jpg"
     },
     {
         "id": 16,
         "place": "Bhavnagar",
-        "url": "content/mandirs/bhavnagar.jpg"
+        "url": "static/mandirs/bhavnagar.jpg"
     },
     {
         "id": 17,
         "place": "Bochasan",
-        "url": "content/mandirs/bochasan.jpg"
+        "url": "static/mandirs/bochasan.jpg"
     },
     {
         "id": 18,
         "place": "Bodeli",
-        "url": "content/mandirs/bodeli.jpg"
+        "url": "static/mandirs/bodeli.jpg"
     },
     {
         "id": 19,
         "place": "Delhi",
-        "url": "content/mandirs/delhi.jpg"
+        "url": "static/mandirs/delhi.jpg"
     },
     {
         "id": 20,
         "place": "Dhari",
-        "url": "content/mandirs/dhari.jpg"
+        "url": "static/mandirs/dhari.jpg"
     },
     {
         "id": 21,
         "place": "Dholka",
-        "url": "content/mandirs/dholka.jpg"
+        "url": "static/mandirs/dholka.jpg"
     },
     {
         "id": 22,
         "place": "Dhule",
-        "url": "content/mandirs/dhule.jpg"
+        "url": "static/mandirs/dhule.jpg"
     },
     {
         "id": 23,
         "place": "Gadhada",
-        "url": "content/mandirs/gadhada.jpg"
+        "url": "static/mandirs/gadhada.jpg"
     },
     {
         "id": 24,
         "place": "Gandhinagar",
-        "url": "content/mandirs/gandhinagar.jpg"
+        "url": "static/mandirs/gandhinagar.jpg"
     },
     {
         "id": 25,
         "place": "Godhra",
-        "url": "content/mandirs/godhra.jpg"
+        "url": "static/mandirs/godhra.jpg"
     },
     {
         "id": 26,
         "place": "Gondal",
-        "url": "content/mandirs/gondal.jpg"
+        "url": "static/mandirs/gondal.jpg"
     },
     {
         "id": 27,
         "place": "Himmatnagar",
-        "url": "content/mandirs/himmatnagar.jpg"
+        "url": "static/mandirs/himmatnagar.jpg"
     },
     {
         "id": 28,
         "place": "Jaipur",
-        "url": "content/mandirs/jaipur.jpg"
+        "url": "static/mandirs/jaipur.jpg"
     },
     {
         "id": 29,
         "place": "Jalandhar",
-        "url": "content/mandirs/jalandhar.jpg"
+        "url": "static/mandirs/jalandhar.jpg"
     },
     {
         "id": 30,
         "place": "Jamnagar",
-        "url": "content/mandirs/jamnagar.jpg"
+        "url": "static/mandirs/jamnagar.jpg"
     },
     {
         "id": 31,
         "place": "Junagadh",
-        "url": "content/mandirs/junagadh.jpg"
+        "url": "static/mandirs/junagadh.jpg"
     },
     {
         "id": 32,
         "place": "Kolkata",
-        "url": "content/mandirs/kolkata.jpg"
+        "url": "static/mandirs/kolkata.jpg"
     },
     {
         "id": 33,
         "place": "Limbdi",
-        "url": "content/mandirs/limbdi.jpg"
+        "url": "static/mandirs/limbdi.jpg"
     },
     {
         "id": 34,
         "place": "Mahelav",
-        "url": "content/mandirs/mahelav.jpg"
+        "url": "static/mandirs/mahelav.jpg"
     },
     {
         "id": 35,
         "place": "Mahesana",
-        "url": "content/mandirs/mahesana.jpg"
+        "url": "static/mandirs/mahesana.jpg"
     },
     {
         "id": 36,
         "place": "Mahuva",
-        "url": "content/mandirs/mahuva.jpg"
+        "url": "static/mandirs/mahuva.jpg"
     },
     {
         "id": 37,
         "place": "Mumbai",
-        "url": "content/mandirs/mumbai.jpg"
+        "url": "static/mandirs/mumbai.jpg"
     },
     {
         "id": 38,
         "place": "Nadiad",
-        "url": "content/mandirs/nadiad.jpg"
+        "url": "static/mandirs/nadiad.jpg"
     },
     {
         "id": 39,
         "place": "Nagpur",
-        "url": "content/mandirs/nagpur.jpg"
+        "url": "static/mandirs/nagpur.jpg"
     },
     {
         "id": 40,
         "place": "Nashik",
-        "url": "content/mandirs/nashik.jpg"
+        "url": "static/mandirs/nashik.jpg"
     },
     {
         "id": 41,
         "place": "Navsari",
-        "url": "content/mandirs/navsari.jpg"
+        "url": "static/mandirs/navsari.jpg"
     },
     {
         "id": 42,
         "place": "Pune",
-        "url": "content/mandirs/pune.jpg"
+        "url": "static/mandirs/pune.jpg"
     },
     {
         "id": 43,
         "place": "Rajkot",
-        "url": "content/mandirs/rajkot.jpg"
+        "url": "static/mandirs/rajkot.jpg"
     },
     {
         "id": 44,
         "place": "Sankari",
-        "url": "content/mandirs/sankari.jpg"
+        "url": "static/mandirs/sankari.jpg"
     },
     {
         "id": 45,
         "place": "Sarangpur",
-        "url": "content/mandirs/sarangpur.jpg"
+        "url": "static/mandirs/sarangpur.jpg"
     },
     {
         "id": 46,
         "place": "Silvassa",
-        "url": "content/mandirs/silvassa.jpg"
+        "url": "static/mandirs/silvassa.jpg"
     },
     {
         "id": 47,
         "place": "Surat",
-        "url": "content/mandirs/surat.jpg"
+        "url": "static/mandirs/surat.jpg"
     },
     {
         "id": 48,
         "place": "Surendranagar",
-        "url": "content/mandirs/surendranagar.jpg"
+        "url": "static/mandirs/surendranagar.jpg"
     },
     {
         "id": 49,
         "place": "Tithal",
-        "url": "content/mandirs/tithal.jpg"
+        "url": "static/mandirs/tithal.jpg"
     },
     {
         "id": 50,
         "place": "Abu Dhabi",
-        "url": "content/mandirs/abu_dhabi.jpg"
+        "url": "static/mandirs/abu_dhabi.jpg"
     }
 ]
