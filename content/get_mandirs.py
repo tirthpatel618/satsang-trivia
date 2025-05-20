@@ -46,9 +46,9 @@ def download_images(city, urls):
             img_data = requests.get(url, timeout=5).content
             with open(os.path.join(city_dir, f"{city}_{i+1}.jpg"), "wb") as f:
                 f.write(img_data)
-            print(f"✔️ {city}_{i+1}.jpg downloaded")
+            print(f"{city}_{i+1}.jpg downloaded")
         except Exception as e:
-            print(f"❌ Failed to download {url}: {e}")
+            print(f"Failed to download {url}: {e}")
 
 def main():
     os.makedirs(download_folder, exist_ok=True)
@@ -57,7 +57,7 @@ def main():
         query = f"BAPS temple {city}"
         urls = fetch_image_links(query, images_per_city)
         download_images(city, urls)
-        time.sleep(2)  # Pause to reduce chance of being blocked
+        time.sleep(2)
 
 if __name__ == "__main__":
     main()

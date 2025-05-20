@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1,
+        "place": "Toronto",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/toronto_ap.jpg"
+    },
+    {
+        "id": 2,
+        "place": "Toronto",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/toronto_g.jpg"
+    },
+    {
+        "id": 3,
+        "place": "Chicago",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/chicago_ap.jpg"
+    },
+    {
+        "id": 4,
+        "place": "Chicago",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/chicago_g.jpg"
+    },
+    {
+        "id": 5,
+        "place": "Robbinsville",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/robbinsville_ap.jpg"
+    },
+    {
+        "id": 6,
+        "place": "Robbinsville",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/robbinsville_g.jpg"
+    },
+    {
+        "id": 7,
+        "place": "Houston",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/houston_ap.jpg"
+    },
+    {
+        "id": 8,
+        "place": "Houston",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/houston_g.jpg"
+    },
+    {
+        "id": 9,
+        "place": "Edison",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/edison_ap.jpg"
+    },
+    {
+        "id": 10,
+        "place": "Edison",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/edison_g.jpg"
+    },
+    {
+        "id": 11,
+        "place": "Atlanta",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/atlanta_ap.jpg"
+    },
+    {
+        "id": 12,
+        "place": "Atlanta",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/atlanta_g.jpg"
+    },
+    {
+        "id": 13,
+        "place": "Los Angeles",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/los_angeles_ap.jpg"
+    },
+    {
+        "id": 14,
+        "place": "Los Angeles",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/los_angeles_g.jpg"
+    },
+    {
+        "id": 15,
+        "place": "Neasden",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/neasden_ap.jpg"
+    },
+    {
+        "id": 16,
+        "place": "Neasden",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/neasden_g.jpg"
+    },
+    {
+        "id": 17,
+        "place": "Nairobi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nairobi_ap.jpg"
+    },
+    {
+        "id": 18,
+        "place": "Nairobi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nairobi_g.jpg"
+    },
+    {
+        "id": 19,
+        "place": "Sydney",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/sydney_ap.jpg"
+    },
+    {
+        "id": 20,
+        "place": "Sydney",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/sydney_g.jpg"
+    },
+    {
+        "id": 21,
+        "place": "Ahmedabad",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/ahmedabad_ap.jpg"
+    },
+    {
+        "id": 22,
+        "place": "Ahmedabad",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/ahmedabad_g.jpg"
+    },
+    {
+        "id": 23,
+        "place": "Anand",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/anand_ap.jpg"
+    },
+    {
+        "id": 24,
+        "place": "Anand",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/anand_g.jpg"
+    },
+    {
+        "id": 25,
+        "place": "Atladara",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/atladara_ap.jpg"
+    },
+    {
+        "id": 26,
+        "place": "Atladara",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/atladara_g.jpg"
+    },
+    {
+        "id": 27,
+        "place": "Bhadra",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bhadra_ap.jpg"
+    },
+    {
+        "id": 28,
+        "place": "Bhadra",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bhadra_g.jpg"
+    },
+    {
+        "id": 29,
+        "place": "Bharuch",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bharuch_ap.jpg"
+    },
+    {
+        "id": 30,
+        "place": "Bharuch",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bharuch_g.jpg"
+    },
+    {
+        "id": 31,
+        "place": "Bhavnagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bhavnagar_ap.jpg"
+    },
+    {
+        "id": 32,
+        "place": "Bhavnagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bhavnagar_g.jpg"
+    },
+    {
+        "id": 33,
+        "place": "Bochasan",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bochasan_ap.jpg"
+    },
+    {
+        "id": 34,
+        "place": "Bochasan",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bochasan_g.jpg"
+    },
+    {
+        "id": 35,
+        "place": "Bodeli",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/bodeli_ap.jpg"
+    },
+    {
+        "id": 36,
+        "place": "Bodeli",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/bodeli_g.jpg"
+    },
+    {
+        "id": 37,
+        "place": "Delhi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/delhi_ap.jpg"
+    },
+    {
+        "id": 38,
+        "place": "Delhi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/delhi_g.jpg"
+    },
+    {
+        "id": 39,
+        "place": "Dhari",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/dhari_ap.jpg"
+    },
+    {
+        "id": 40,
+        "place": "Dhari",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/dhari_g.jpg"
+    },
+    {
+        "id": 41,
+        "place": "Dholka",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/dholka_ap.jpg"
+    },
+    {
+        "id": 42,
+        "place": "Dholka",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/dholka_g.jpg"
+    },
+    {
+        "id": 43,
+        "place": "Dhule",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/dhule_ap.jpg"
+    },
+    {
+        "id": 44,
+        "place": "Dhule",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/dhule_g.jpg"
+    },
+    {
+        "id": 45,
+        "place": "Gadhada",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/gadhada_ap.jpg"
+    },
+    {
+        "id": 46,
+        "place": "Gadhada",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/gadhada_g.jpg"
+    },
+    {
+        "id": 47,
+        "place": "Gandhinagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/gandhinagar_ap.jpg"
+    },
+    {
+        "id": 48,
+        "place": "Gandhinagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/gandhinagar_g.jpg"
+    },
+    {
+        "id": 49,
+        "place": "Godhra",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/godhra_ap.jpg"
+    },
+    {
+        "id": 50,
+        "place": "Godhra",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/godhra_g.jpg"
+    },
+    {
+        "id": 51,
+        "place": "Gondal",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/gondal_ap.jpg"
+    },
+    {
+        "id": 52,
+        "place": "Gondal",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/gondal_g.jpg"
+    },
+    {
+        "id": 53,
+        "place": "Himmatnagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/himmatnagar_ap.jpg"
+    },
+    {
+        "id": 54,
+        "place": "Himmatnagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/himmatnagar_g.jpg"
+    },
+    {
+        "id": 55,
+        "place": "Jaipur",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/jaipur_ap.jpg"
+    },
+    {
+        "id": 56,
+        "place": "Jaipur",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/jaipur_g.jpg"
+    },
+    {
+        "id": 57,
+        "place": "Jalandhar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/jalandhar_ap.jpg"
+    },
+    {
+        "id": 58,
+        "place": "Jalandhar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/jalandhar_g.jpg"
+    },
+    {
+        "id": 59,
+        "place": "Jamnagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/jamnagar_ap.jpg"
+    },
+    {
+        "id": 60,
+        "place": "Jamnagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/jamnagar_g.jpg"
+    },
+    {
+        "id": 61,
+        "place": "Junagadh",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/junagadh_ap.jpg"
+    },
+    {
+        "id": 62,
+        "place": "Junagadh",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/junagadh_g.jpg"
+    },
+    {
+        "id": 63,
+        "place": "Kolkata",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/kolkata_ap.jpg"
+    },
+    {
+        "id": 64,
+        "place": "Kolkata",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/kolkata_g.jpg"
+    },
+    {
+        "id": 65,
+        "place": "Limbdi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/limbdi_ap.jpg"
+    },
+    {
+        "id": 66,
+        "place": "Limbdi",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/limbdi_g.jpg"
+    },
+    {
+        "id": 67,
+        "place": "Mahelav",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mahelav_ap.jpg"
+    },
+    {
+        "id": 68,
+        "place": "Mahelav",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mahelav_g.jpg"
+    },
+    {
+        "id": 69,
+        "place": "Mahesana",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mahesana_ap.jpg"
+    },
+    {
+        "id": 70,
+        "place": "Mahesana",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mahesana_g.jpg"
+    },
+    {
+        "id": 71,
+        "place": "Mahuva",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mahuva_ap.jpg"
+    },
+    {
+        "id": 72,
+        "place": "Mahuva",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mahuva_g.jpg"
+    },
+    {
+        "id": 73,
+        "place": "Mumbai",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/mumbai_ap.jpg"
+    },
+    {
+        "id": 74,
+        "place": "Mumbai",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/mumbai_g.jpg"
+    },
+    {
+        "id": 75,
+        "place": "Nadiad",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nadiad_ap.jpg"
+    },
+    {
+        "id": 76,
+        "place": "Nadiad",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nadiad_g.jpg"
+    },
+    {
+        "id": 77,
+        "place": "Nagpur",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nagpur_ap.jpg"
+    },
+    {
+        "id": 78,
+        "place": "Nagpur",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nagpur_g.jpg"
+    },
+    {
+        "id": 79,
+        "place": "Nashik",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/nashik_ap.jpg"
+    },
+    {
+        "id": 80,
+        "place": "Nashik",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/nashik_g.jpg"
+    },
+    {
+        "id": 81,
+        "place": "Navsari",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/navsari_ap.jpg"
+    },
+    {
+        "id": 82,
+        "place": "Navsari",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/navsari_g.jpg"
+    },
+    {
+        "id": 83,
+        "place": "Pune",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/pune_ap.jpg"
+    },
+    {
+        "id": 84,
+        "place": "Pune",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/pune_g.jpg"
+    },
+    {
+        "id": 85,
+        "place": "Rajkot",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/rajkot_ap.jpg"
+    },
+    {
+        "id": 86,
+        "place": "Rajkot",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/rajkot_g.jpg"
+    },
+    {
+        "id": 87,
+        "place": "Sankari",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/sankari_ap.jpg"
+    },
+    {
+        "id": 88,
+        "place": "Sankari",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/sankari_g.jpg"
+    },
+    {
+        "id": 89,
+        "place": "Sarangpur",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/sarangpur_ap.jpg"
+    },
+    {
+        "id": 90,
+        "place": "Sarangpur",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/sarangpur_g.jpg"
+    },
+    {
+        "id": 91,
+        "place": "Silvassa",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/silvassa_ap.jpg"
+    },
+    {
+        "id": 92,
+        "place": "Silvassa",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/silvassa_g.jpg"
+    },
+    {
+        "id": 93,
+        "place": "Surat",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/surat_ap.jpg"
+    },
+    {
+        "id": 94,
+        "place": "Surat",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/surat_g.jpg"
+    },
+    {
+        "id": 95,
+        "place": "Surendranagar",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/surendranagar_ap.jpg"
+    },
+    {
+        "id": 96,
+        "place": "Surendranagar",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/surendranagar_g.jpg"
+    },
+    {
+        "id": 97,
+        "place": "Tithal",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/tithal_ap.jpg"
+    },
+    {
+        "id": 98,
+        "place": "Tithal",
+        "khand": "Ghanshyam Maharaj",
+        "url": "content/murtis/tithal_g.jpg"
+    },
+    {
+        "id": 99,
+        "place": "Abu Dhabi",
+        "khand": "Akshar Purushottam",
+        "url": "content/murtis/abu_dhabi_ap.jpg"
+    }
+]
